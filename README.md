@@ -1,8 +1,14 @@
-<div style="background: #121212; padding: 30px; text-align: center; border-radius: 10px;">
+<div style="text-align: center; padding: 20px;">
   <a href="" style="text-decoration: none;">
-    <div style="border: 2px solid #00A86B; color: #00A86B; padding: 12px 25px; border-radius: 5px; font-family: 'Courier New', monospace; transition: all 0.3s;">
-      DOWNLOAD NOW
+    <div style="display: inline-block; background: #00A86B; color: white; padding: 15px 30px; border-radius: 5px; animation: pulse 2s infinite;">
+      СКАЧАТЬ
     </div>
   </a>
-  <p style="color: #888; margin-top: 10px; font-size: 12px;">Нажмите для мгновенной загрузки</p>
 </div>
+<style>
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+  }
+</style>
