@@ -9,9 +9,6 @@
  |---------------------|----------------------:|
 
 
-
----
-
 > The download will start automatically when you open the link in your browser.
 
 ---
