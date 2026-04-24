@@ -1,8 +1,4 @@
-
-<font size="+3">
-  📦 **[CLICK FOR DOWNLOAD NOW](https://github.com/hiddify/hiddify-app/)**
-</font>
-
+### 📦 **[CLICK FOR DOWNLOAD NOW](https://github.com/hiddify/hiddify-app/)**
 
 
 ---
