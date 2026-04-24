@@ -4,7 +4,6 @@
  |---------------------|----------------------:|
 
 
-https://postimg.cc/2LmqjFz1
 
 ---
 
@@ -14,7 +13,7 @@ https://postimg.cc/2LmqjFz1
   width="1280"
   height="720"
   alt="bbb"
-  src="https://postimg.cc/2LmqjFz1"
+  src=""
 />
 
 
