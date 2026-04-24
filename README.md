@@ -1,11 +1,9 @@
-### 📦 **[CLICK FOR DOWNLOAD NOW](https://github.com/hiddify/hiddify-app/)**
-
 
 ---
   
  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( https://github.com/hiddify/hiddify-app/) |
  |---------------------|----------------------:|
-
+### 📦 **[CLICK FOR DOWNLOAD NOW](https://github.com/hiddify/hiddify-app/)**
 
 > The download will start automatically when you open the link in your browser.
 
